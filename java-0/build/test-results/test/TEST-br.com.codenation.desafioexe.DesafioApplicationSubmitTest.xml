@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-04-16T22:38:20" hostname="MBP-de-Kamila" time="0.005">
+  <properties/>
+  <testcase name="fibonacciTemTamanho15" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.002"/>
+  <testcase name="isNotFibonacci12" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.0"/>
+  <testcase name="isFibonacci377" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.0"/>
+  <testcase name="fibonacciSequenciaCorreta" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.001"/>
+  <testcase name="isNotFibonacci355" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.0"/>
+  <testcase name="isFibonacci13" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

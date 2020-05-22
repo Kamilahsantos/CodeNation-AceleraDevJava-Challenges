@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.EstacionamentoSubmissionTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-05-02T04:34:53" hostname="MacBook-Pro-de-Kamila.local" time="0.012">
+  <properties/>
+  <testcase name="naoDeveTerCarroAutonomo" classname="challenge.EstacionamentoSubmissionTest" time="0.002"/>
+  <testcase name="casoTodosSejamSeniorONovoMotoristaNaoTeraVaga" classname="challenge.EstacionamentoSubmissionTest" time="0.002"/>
+  <testcase name="deveRetornarErroQuandoNaoTemCor" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="casoPrimeiroMotoristaSejaSeniorEleNaoDeveSair" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="naoDeveEstacionarMotoristaSemPontos" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="deveRetorarErroQuandoPontosNegativos" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="deveEstacionar" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="deveRetorarErroQuandoIdadeNegativa" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="naoDeveTerMotoristaDeMenor" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoMotoristaNaoTemNome" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoMotoristaNaoTemHabilitacao" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="naoDeveUltrapassarEstacionamento" classname="challenge.EstacionamentoSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoNaoTemPlaca" classname="challenge.EstacionamentoSubmissionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

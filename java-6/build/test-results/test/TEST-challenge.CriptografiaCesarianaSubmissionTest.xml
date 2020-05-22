@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.CriptografiaCesarianaSubmissionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-04-25T05:02:37" hostname="MBP-de-Kamila" time="0.225">
+  <properties/>
+  <testcase name="deveRetornarErroQuandoCriptografaTextoEhNulo" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.002"/>
+  <testcase name="deveConverterCaracteresParaMinusculoNaDescriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.047"/>
+  <testcase name="deveManterOsNumerosNaCriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.035"/>
+  <testcase name="deveConverterCaracteresParaMinusculoNaCriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.027"/>
+  <testcase name="deveManterOsNumerosNaDescriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.024"/>
+  <testcase name="deveRetornarErroQuandoDesCriptografaTextoEhNulo" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoODesCriptografaTextoEhVazio" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.001"/>
+  <testcase name="deveCriptografarTexto" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.041"/>
+  <testcase name="deveRetornarErroQuandoOCriptografaTextoEhVazio" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.001"/>
+  <testcase name="deveDescriptografarTexto" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[abr 25, 2020 2:02:37 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Empty text, a request could not be completed
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Null text, check text
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: p
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: n
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: j
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: v
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: g
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: f
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: i
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: c
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: i
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Empty text, a request could not be completed
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Null text, check text
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: v
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: m
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: p
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: p
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: y
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: q
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: g
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: v
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: f
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: v
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: 2
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: 0
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: 1
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: 9
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Empty text, a request could not be completed
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Null text, check text
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: s
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: q
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: g
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: m
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: y
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: j
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: i
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: f
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: g
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: g
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Empty text, a request could not be completed
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Null text, check text
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: s
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: j
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: m
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: b
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: m
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: v
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: i
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: n
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: s
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: c
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: b
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: s
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: i
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Empty text, a request could not be completed
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Null text, check text
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: j
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: s
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: v
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: p
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: p
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: v
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: w
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: x
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: v
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: f
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: f
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: k
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES:  
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: f
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: q
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: v
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: g
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana criptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Empty text, a request could not be completed
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana checkText
+INFORMAÇÕES: Null text, check text
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: i
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: g
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: i
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: p
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: s
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: m
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: m
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: s
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: l
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: t
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: u
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: s
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: b
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: e
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: c
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: c
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: h
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: r
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: c
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: n
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: s
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: a
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: d
+abr 25, 2020 2:02:38 AM challenge.CriptografiaCesariana descriptografar
+INFORMAÇÕES: o
+]]></system-err>
+</testsuite>

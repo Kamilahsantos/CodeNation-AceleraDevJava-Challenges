@@ -1,0 +1,25 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'application'
+
+group = 'br.com.codenation'
+version = '1.0'
+mainClassName = 'br.com.codenation.DesafioApplicationRunner'
+sourceCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+}
+
+
+task desafio(type: JavaExec) {
+  classpath sourceSets.main.runtimeClasspath
+  main = "br.com.codenation.DesafioApplicationRunner"
+}
+
+dependencies {
+	compile files('libs/submit-desafio-java-1.jar')
+	compile files('libs/desafio-java-1.jar')
+  testImplementation('junit:junit:4.13')
+
+}
