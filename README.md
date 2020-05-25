@@ -32,4 +32,4 @@ Repositório com os Desafios realizados durante o aceleradev Java da CodeNation
 
 * Criando e manipulando entidades no banco de dados com Spring - [resolução](https://github.com/Kamilahsantos/CodeNation-AceleraDevJava-Challenges/tree/master/java-10)
 
-* Order Service
+* Order Service - [resolução](https://github.com/Kamilahsantos/CodeNation-AceleraDevJava-Challenges/tree/master/java-15)
