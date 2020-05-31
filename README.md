@@ -37,3 +37,6 @@ Repositório com os Desafios realizados durante o aceleradev Java da CodeNation
 ### MÓDULO 6
 * Spring WEB - [resolução](https://github.com/Kamilahsantos/CodeNation-AceleraDevJava-Challenges/tree/master/java-11)
 
+* Gerador de frases do Monty Python [resolução](https://github.com/Kamilahsantos/CodeNation-AceleraDevJava-Challenges/tree/master/java-5)
+
+
