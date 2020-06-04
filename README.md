@@ -39,4 +39,7 @@ Repositório com os Desafios realizados durante o aceleradev Java da CodeNation
 
 * Gerador de frases do Monty Python [resolução](https://github.com/Kamilahsantos/CodeNation-AceleraDevJava-Challenges/tree/master/java-5)
 
+### MÓDULO 7
+* Oauth2 com spring - [resolução](https://github.com/Kamilahsantos/CodeNation-AceleraDevJava-Challenges/tree/master/java-12)
+
 
