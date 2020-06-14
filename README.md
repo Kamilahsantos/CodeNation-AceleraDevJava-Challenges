@@ -43,3 +43,6 @@ Repositório com os Desafios realizados durante o aceleradev Java da CodeNation
 * Oauth2 com spring - [resolução](https://github.com/Kamilahsantos/CodeNation-AceleraDevJava-Challenges/tree/master/java-12)
 
 
+### MÓDULO 8
+* Refatorando Formas de Pagamento - [resolução](https://github.com/Kamilahsantos/CodeNation-AceleraDevJava-Challenges/tree/master/java-16)
+
